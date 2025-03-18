@@ -10,6 +10,7 @@ fake-fews-fetector/<br />
 │   ├── requirements.txt       # Dependencies<br />
 │── dataset/                   # Dataset Storage<br />
 │   ├── fake_news.csv          # Fake News Dataset<br />
+│   ├── real_news.csv          # Real News Dataset<br />
 │── frontend/                  # UI for Testing<br />
 │   ├── index.html             # Frontend<br />
-│── README.md                   # Documentation<br />
+│── README.md                  # Documentation<br />
